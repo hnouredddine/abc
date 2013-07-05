@@ -1,0 +1,9 @@
+[Core]
+Name = Crash QCT LPASS
+Module = crash_qct_lpass
+
+[Documentation]
+Author = Hassan Noureddine
+Version = 1.0.1
+Website = http://github.rim.net/hnoureddine/BDTP_crash_qct_lpass
+Description = Public plug-in that allows user to crash QCT LPASS via remote login
